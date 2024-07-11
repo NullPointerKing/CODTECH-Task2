@@ -154,16 +154,16 @@ public class GradeCalculator {
 
 ```
 
-##✨ Features
+## ✨ Features
 
 * Grade Input: Enter grades for multiple subjects.
 * Average Calculation: Calculates the average grade, excluding special values.
 * Letter Grade: Determines the corresponding letter grade based on the average.
 * GPA Calculation: Calculates the GPA on a 10-point scale.
 
-##👨‍🎓 Author
+## 👨‍🎓 Author
 
 * Abhinav Dyan Samantara
 
-##📄 License
+## 📄 License
 This project is for educational purposes during the internship and is not licensed for commercial use.
